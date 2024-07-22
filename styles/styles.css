@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --link-color: #1a03e6;
+  --link-color: #e61203;
   --link-hover-color: #6a13f6;
   --background-color: white;
   --light-color: #eee;
@@ -25,7 +25,7 @@
   --fixed-font-family: 'Roboto Mono', menlo, consolas, 'Liberation Mono', monospace;
 
   /* body sizes */
-  --body-font-size-m: 22px;
+  --body-font-size-m: 20px;
   --body-font-size-s: 18px;
   --body-font-size-xs: 16px;
 
